@@ -15,6 +15,7 @@ AI агент для автоматического сбора, анализа �
 ### 1. Клонирование и установка зависимостей
 
 ```bash
+git clone https://github.com/doctopmail-dev/whatsapp-ai-agent.git
 cd whatsapp-ai-agent
 pip install -r requirements.txt
 ```
